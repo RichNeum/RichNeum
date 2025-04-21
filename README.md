@@ -1,4 +1,5 @@
-![Banner](https://github.com/user-attachments/assets/6eb7f207-98b0-4c9f-803c-b581d9e27d10)
+
+![beautiful_linkedin banner](https://github.com/user-attachments/assets/f1547c3d-fb34-4ed0-b566-8ba98ef114b9)
 
 
 ## 👋 Hi there, I'm Richard!
