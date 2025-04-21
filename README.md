@@ -3,7 +3,9 @@
 
 I'm a **Business Intelligence Analyst** with a strong foundation in data analysis, visualization, and strategic decision-making. I specialize in transforming raw data into actionable insights and dashboards that drive operational efficiency and business growth.
 
-With 9+ years of experience across **Sales Intelligence** and **Inventory Strategy**, I’ve developed a deep understanding of business operations and how to bridge the gap between business needs and technical solutions. I’m passionate about using data to uncover trends, streamline processes, and inform impactful decisions.
+## 👋 Hi there, I'm Richard!
+
+💡 **Business Intelligence Analyst** with 9+ years of experience using data to improve sales performance, streamline logistics, and support regulatory compliance. Adept at transforming complex datasets into clear, actionable insights that drive growth and operational efficiency.
 
 ---
 
