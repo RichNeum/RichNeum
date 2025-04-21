@@ -3,7 +3,7 @@
 
 I'm a **Business Intelligence Analyst** with a strong foundation in data analysis, visualization, and strategic decision-making. I specialize in transforming raw data into actionable insights and dashboards that drive operational efficiency and business growth.
 
-With 9+ years of experience as a **Sales Specialist** and **Inventory Manager**, I’ve developed a deep understanding of business operations and how to bridge the gap between business needs and technical solutions. I’m passionate about using data to uncover trends, streamline processes, and inform impactful decisions.
+With 9+ years of experience across **Sales Intelligence ** and **Inventory Strategy**, I’ve developed a deep understanding of business operations and how to bridge the gap between business needs and technical solutions. I’m passionate about using data to uncover trends, streamline processes, and inform impactful decisions.
 
 ---
 
