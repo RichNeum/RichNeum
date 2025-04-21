@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6eb7f207-98b0-4c9f-803c-b581d9e27d10)
+![Banner](https://github.com/user-attachments/assets/6eb7f207-98b0-4c9f-803c-b581d9e27d10)
 
 
 ## 👋 Hi there, I'm Richard!
