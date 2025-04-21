@@ -1,8 +1,3 @@
-
-## 👋 Hi there, I'm Richard!
-
-I'm a **Business Intelligence Analyst** with a strong foundation in data analysis, visualization, and strategic decision-making. I specialize in transforming raw data into actionable insights and dashboards that drive operational efficiency and business growth.
-
 ## 👋 Hi there, I'm Richard!
 
 💡 **Business Intelligence Analyst** with 9+ years of experience using data to improve sales performance, streamline logistics, and support regulatory compliance. Adept at transforming complex datasets into clear, actionable insights that drive growth and operational efficiency.
