@@ -1,20 +1,41 @@
-## 👋  Hi there 
-I'm Richard,a Business Intelligence Analyst with a strong foundation in data analysis, visualization, and strategic decision-making. Adept at leveraging analytical tools such as SQL, Python, Excel, Google Sheets, Tableau, and Power BI to extract insights, optimize business processes, and drive data-informed decisions. Experienced in transforming raw data into actionable reports and dashboards to support operational efficiency and business growth.
 
-Previously a Sales Specialist and Inventory Manager with 9+ years of experience in optimizing inventory processes, improving sales performance, and implementing data-driven strategies. Skilled in project management, regulatory compliance, and customer relationship management, with a keen ability to bridge the gap between business needs and technical solutions. Passionate about utilizing data to uncover trends, streamline operations, and support business intelligence initiatives.
+## 👋 Hi there, I'm Richard!
 
-Key Skills:
+I'm a **Business Intelligence Analyst** with a strong foundation in data analysis, visualization, and strategic decision-making. I specialize in transforming raw data into actionable insights and dashboards that drive operational efficiency and business growth.
 
-Data analysis & visualization (Tableau, Power BI)
+With 9+ years of experience as a **Sales Specialist** and **Inventory Manager**, I’ve developed a deep understanding of business operations and how to bridge the gap between business needs and technical solutions. I’m passionate about using data to uncover trends, streamline processes, and inform impactful decisions.
 
-SQL & Python for data manipulation
+---
 
-Advanced Excel & Google Sheets
+### 🧠 What I Do
+- Craft interactive dashboards and compelling data stories using **Tableau** and **Power BI**
+- Perform complex data manipulations with **SQL** and **Python**
+- Build automated solutions to optimize workflows and enhance performance tracking
+- Collaborate cross-functionally to align insights with business goals
 
-Business intelligence & reporting
+---
 
-Process optimization & automation
+### 🔧 Technical Skills
+**Languages & Tools:**  
+`Python` (Pandas, NumPy, Matplotlib) | `SQL` (joins, CTEs, window functions) | `PostgreSQL`  
+`Power BI` (DAX, Power Query) | `Tableau` (VizQL) | `Excel` | `Google Sheets`
 
-Performance tracking & KPI development
+**Analytics & BI:**  
+Data Cleaning & Transformation | KPI Tracking | Dashboard Development  
+Stakeholder Reporting | Inventory Optimization | Regulatory Reporting  
+Customer Segmentation (RFM, LTV) | Cohort Analysis
 
+---
+
+### 📌 Core Strengths
+- 📊 Data Analysis & Visualization  
+- 🧮 SQL & Python for Data Manipulation  
+- 📈 Business Intelligence & Reporting  
+- 📦 Inventory & Process Optimization  
+- 🧠 Performance Tracking & KPI Development  
+- 🧰 Automation with Excel & Sheets  
+
+---
+
+💬 Let’s connect on data, analytics, or anything in between. Thanks for stopping by!
 
