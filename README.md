@@ -1,5 +1,5 @@
 
-<img src="https://github.com/user-attachments/assets/f1547c3d-fb34-4ed0-b566-8ba98ef114b9" alt="beautiful_linkedin banner" style="width: 100%; height: auto; display: block; margin: 0 auto;">
+![beautiful_linkedin banner](https://github.com/user-attachments/assets/61bfa279-79eb-43a4-9690-aa7c2560406b)
 
 ## 👋 Hi there, I'm Richard!
 
