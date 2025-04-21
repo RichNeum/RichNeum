@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/6eb7f207-98b0-4c9f-803c-b581d9e27d10)
+
+
 ## 👋 Hi there, I'm Richard!
 
 💡 **Business Intelligence Analyst** with 9+ years of experience using data to improve sales performance, streamline logistics, and support regulatory compliance. Adept at transforming complex datasets into clear, actionable insights that drive growth and operational efficiency.
