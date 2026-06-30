@@ -3,7 +3,7 @@
 
 ## 👋 Hi there, I'm Richard!
 
-💡 **Business Intelligence Analyst** with 9+ years of experience using data to improve sales performance, streamline logistics, and support regulatory compliance. Adept at transforming complex datasets into clear, actionable insights that drive growth and operational efficiency.
+💡 **Healthcare Operations & Business Intelligence Analyst** with 9+ years of with spanning healthcare, business operations, procurement, and analytics. I build data-driven solutions that improve operational performance, automate reporting, and support strategic decision-making. Skilled in SQL, Power BI, Tableau, Excel, and process improvement, I enjoy turning complex data into actionable insights. My background in healthcare operations and emergency medical services gives me a practical perspective on solving real-world business challenges through analytics and technology.
 
 ---
 
@@ -11,7 +11,7 @@
 - Craft interactive dashboards and compelling data stories using **Tableau** and **Power BI**
 - Perform complex data manipulations with **SQL** and **Python**
 - Build automated solutions to optimize workflows and enhance performance tracking
-- Collaborate cross-functionally to align insights with business goals
+- Collaborate cross-functionally to align insights with operations and business goals
 
 ---
 
