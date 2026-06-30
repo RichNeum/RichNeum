@@ -15,15 +15,19 @@
 
 ---
 
-### 🔧 Technical Skills
-**Languages & Tools:**  
-`Python` (Pandas, NumPy, Matplotlib) | `SQL` (joins, CTEs, window functions) | `PostgreSQL`  
-`Power BI` (DAX, Power Query) | `Tableau` (VizQL) | `Excel` | `Google Sheets`
+### 🔧 Areas of Expertise
+**Tech Stack:**  
+`SQL` (joins, CTEs, window functions) | `Python` (Pandas, NumPy, Matplotlib) | `PostgreSQL`  
+`Power BI` (DAX, Power Query) | `Tableau` (VizQL) | `Excel` (Advanced Formulas, Pivot Tables, VBA) | `Power Automate`
 
 **Analytics & BI:**  
-Data Cleaning & Transformation | KPI Tracking | Dashboard Development  
-Stakeholder Reporting | Inventory Optimization | Regulatory Reporting  
-Customer Segmentation (RFM, LTV) | Cohort Analysis
+Dashboard Development | KPI Development & Tracking | Data Analysis | Data Modeling | Data Cleaning & Transformation 
+Data Visualization | Executive Reporting | Requirements Gathering | Root Cause Analysis | Report Automation
+
+**Healthcare & Operations:**
+Healthcare Operations | Business Process Analysis and Improvement | Contract Administration | Procurement Analytics | 
+Regulatory Compliance | Stakeholder Management | Vendor Management | Operational Reporting
+
 
 ---
 
