@@ -25,7 +25,7 @@ Dashboard Development | KPI Development & Tracking | Data Analysis | Data Modeli
 Data Visualization | Executive Reporting | Requirements Gathering | Root Cause Analysis | Report Automation
 
 **Healthcare & Operations:**    
-Healthcare Operations | Business Process Analysis and Improvement | Contract Administration | Procurement Analytics | 
+Healthcare Operations | Business Process Analysis and Improvement | Contract Administration | Procurement Analytics  
 Regulatory Compliance | Stakeholder Management | Vendor Management | Operational Reporting
 
 
